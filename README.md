@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Projects Completed:</h2>
 
-- <b>Man in The Middle Attack Detector</b>
-  - [ARP Spoofing Detector made with Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Python</b>
+  - [ARP Spoofing Detector](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Key Logger](https://github.com/joshmadakor1/Algorithms-Practice)
+    
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
