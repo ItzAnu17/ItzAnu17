@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects Completed:</h2>
 
 - <b>Python</b>
-  - [MITM Detector (ARP Spoofing Attack)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [MITM Detector (ARP Spoofing Attack)](https://github.com/ItzAnu17/ARP-Spoofing-Detector/tree/main)
   - [Key Logger](https://github.com/joshmadakor1/Algorithms-Practice)
     
 - <b>Scripting</b>
