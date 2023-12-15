@@ -6,7 +6,7 @@
   - [ARP Spoofing Detector](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Key Logger](https://github.com/joshmadakor1/Algorithms-Practice)
     
-- <b>SCripting</b>
+- <b>Scripting</b>
   - [Designing, Attackgin and monitoting a netowrk](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 
 
