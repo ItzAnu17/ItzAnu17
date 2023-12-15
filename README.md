@@ -7,7 +7,7 @@
   - [Key Logger](https://github.com/joshmadakor1/Algorithms-Practice)
     
 - <b>Scripting</b>
-  - [Designing, Attackgin and monitoting a netowrk](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [Designing, Attacking and monitoting a network](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 
 
 
