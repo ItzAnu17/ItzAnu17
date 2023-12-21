@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   - [MITM Detector (ARP Spoofing Attack)](https://github.com/ItzAnu17/ARP-Spoofing-Detector/tree/main)
-  - [Key Logger](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Key Logger](https://github.com/ItzAnu17/Keylogger)
     
 - <b>Scripting</b>
   - [Designing, Attacking and monitoring a network](https://github.com/ItzAnu17/Attacking-and-Defending-a-network/tree/main) <b>
